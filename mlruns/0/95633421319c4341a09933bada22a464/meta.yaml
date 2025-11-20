@@ -1,0 +1,15 @@
+artifact_uri: file:///mnt/d/python/ML/nd0821-c2-build-model-workflow-exercises/lesson-5-final-pipeline-release-and-deploy/exercises/exercise_14/starter/mlruns/0/95633421319c4341a09933bada22a464/artifacts
+end_time: 1763650362438
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 95633421319c4341a09933bada22a464
+run_name: youthful-crow-12
+run_uuid: 95633421319c4341a09933bada22a464
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1763650356789
+status: 4
+tags: []
+user_id: root
